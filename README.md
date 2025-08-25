@@ -111,7 +111,6 @@ Limitations:
 - Model: `gpt-5`
 - System prompt enforces grounding to the provided content and metadata
 - If answer isn’t in the doc: returns exactly “I couldn't find that information in the document.”
-- Conversation memory: last 5 Q&A pairs included before the current turn
 
 ---
 
